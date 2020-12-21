@@ -12,15 +12,15 @@ npm i gulp-compo-builder
 
 ## Example
 
-- **new-incremental**<br>![new-incremental](img/new-incremental.png)<br>
+- **new-incremental**<br><br>![](img/new-incremental.png)<br><br>
 
-- **new-sass-incremental**<br>![new-sass-incremental](img/new-sass-incremental.png)<br>
+- **new-sass-incremental**<br><br>![](img/new-sass-incremental.png)<br><br>
 
-- **new-autoprefixer-incremental**<br>![new-autoprefixer-incremental](img/new-autoprefixer-incremental.png)<br>
+- **new-autoprefixer-incremental**<br><br>![](img/new-autoprefixer-incremental.png)<br><br>
 
-- **new-pug-sass-autoprefixer-incremental**<br>![new-pug-sass-autoprefixer-incremental](img/new-pug-sass-autoprefixer-incremental.png)<br>
+- **new-pug-sass-autoprefixer-incremental**<br><br>![](img/new-pug-sass-autoprefixer-incremental.png)<br><br>
 
-- **new-pug-bem-sass-autoprefixer-incremental**<br>![new-pug-bem-sass-autoprefixer-incremental](img/new-pug-bem-sass-autoprefixer-incremental.png)
+- **new-pug-bem-sass-autoprefixer-incremental**<br><br>![](img/new-pug-bem-sass-autoprefixer-incremental.png)
 
 ## Author
 
