@@ -20,7 +20,7 @@ npm i gulp-compo-builder
 
 - **new-pug-sass-autoprefixer-incremental**<br><br>![](img/new-pug-sass-autoprefixer-incremental.png)<br><br>
 
-- **new-pug-bem-sass-autoprefixer-incremental**<br><br>![](img/new-pug-bem-sass-autoprefixer-incremental.png)
+- **new-pug-bem-sass-autoprefixer-incremental**<br><br>![](img/new-pug-bem-sass-autoprefixer-incremental.png)<br><br>
 
 ## Author
 
