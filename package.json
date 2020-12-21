@@ -1,6 +1,6 @@
 {
   "name": "gulp-compo-builder",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gulp incremental builder for Compo.js",
   "main": "index.js",
   "scripts": {
@@ -19,9 +19,5 @@
     "name": "compojs.ru",
     "email": "compo.js@mail.ru"
   },
-  "license": "ISC",
-  "dependencies": {
-    "sass": "^1.30.0",
-    "through2": "^4.0.2"
-  }
+  "license": "ISC"
 }
