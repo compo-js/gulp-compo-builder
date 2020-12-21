@@ -1,0 +1,27 @@
+{
+  "name": "gulp-compo-builder",
+  "version": "0.0.1",
+  "description": "Gulp incremental builder for Compo.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "pug",
+    "compojs",
+    "compo",
+    "js",
+    "autoprefixer",
+    "sass"
+  ],
+  "author": {
+    "name": "compojs.ru",
+    "email": "compo.js@mail.ru"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.30.0",
+    "through2": "^4.0.2"
+  }
+}
