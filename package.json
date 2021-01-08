@@ -1,6 +1,6 @@
 {
   "name": "gulp-compo-builder",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Gulp incremental builder for Compo.js",
   "main": "index.js",
   "scripts": {

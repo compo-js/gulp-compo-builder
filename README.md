@@ -1,6 +1,6 @@
 # gulp-compo-builder
 
-**Gulp** incremental builder for **[Compo.js](http://compojs.ru/)**
+**Gulp** incremental builder for **[CompoJS](http://compojs.ru/)**
 
 ![logo](https://github.com/compo-js/gulp-compo-builder/blob/main/builder.png)
 
