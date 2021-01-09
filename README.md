@@ -12,15 +12,15 @@ npm i gulp-compo-builder
 
 ## Example
 
-- **new-compo**<br><br>![](https://github.com/compo-js/gulp-compo-builder/blob/main/img/new-compo.png)<br><br>
+- **compo**<br><br>![](https://github.com/compo-js/gulp-compo-builder/blob/main/img/compo.png)<br><br>
 
-- **new-compo-sass**<br><br>![](https://github.com/compo-js/gulp-compo-builder/blob/main/img/new-compo-sass.png)<br><br>
+- **compo-sass**<br><br>![](https://github.com/compo-js/gulp-compo-builder/blob/main/img/compo-sass.png)<br><br>
 
-- **new-compo-autoprefixer**<br><br>![](https://github.com/compo-js/gulp-compo-builder/blob/main/img/new-compo-autoprefixer.png)<br><br>
+- **compo-autoprefixer**<br><br>![](https://github.com/compo-js/gulp-compo-builder/blob/main/img/compo-autoprefixer.png)<br><br>
 
-- **new-compo-pug-sass-autoprefixer**<br><br>![](https://github.com/compo-js/gulp-compo-builder/blob/main/img/new-compo-pug-sass-autoprefixer.png)<br><br>
+- **compo-pug-sass-autoprefixer**<br><br>![](https://github.com/compo-js/gulp-compo-builder/blob/main/img/compo-pug-sass-autoprefixer.png)<br><br>
 
-- **new-compo-pug-bem-sass-autoprefixer**<br><br>![](https://github.com/compo-js/gulp-compo-builder/blob/main/img/new-compo-pug-bem-sass-autoprefixer.png)<br><br>
+- **compo-pug-bem-sass-autoprefixer**<br><br>![](https://github.com/compo-js/gulp-compo-builder/blob/main/img/compo-pug-bem-sass-autoprefixer.png)<br><br>
 
 ## Author
 
